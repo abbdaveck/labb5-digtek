@@ -1,4 +1,0 @@
-Running: xsim.dir/adressvaljare_tb_behav/xsimk.exe -simmode gui -wdb adressvaljare_tb_behav.wdb -simrunnum 0 -socket 56748
-Design successfully loaded
-Design Loading Memory Usage: 24168 KB (Peak: 24168 KB)
-Design Loading CPU Usage: 218 ms

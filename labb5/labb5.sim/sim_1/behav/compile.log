@@ -1,6 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/da1453ec-s/Programs/labb5/labb5.srcs/sim_1/imports/tb/berakningsenhet_tb.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity berakningsenhet_tb
-ERROR: [VRFC 10-91] berakningsenhet is not declared [C:/Users/da1453ec-s/Programs/labb5/labb5.srcs/sim_1/imports/tb/berakningsenhet_tb.vhd:32]
-ERROR: [VRFC 10-757] if you are trying to directly instantiate a design entity, please use expanded name [C:/Users/da1453ec-s/Programs/labb5/labb5.srcs/sim_1/imports/tb/berakningsenhet_tb.vhd:32]
-ERROR: [VRFC 10-1504] unit behaviour ignored due to previous errors [C:/Users/da1453ec-s/Programs/labb5/labb5.srcs/sim_1/imports/tb/berakningsenhet_tb.vhd:12]
-INFO: [VRFC 10-240] VHDL file C:/Users/da1453ec-s/Programs/labb5/labb5.srcs/sim_1/imports/tb/berakningsenhet_tb.vhd ignored due to errors
