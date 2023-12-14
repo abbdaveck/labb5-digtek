@@ -1,0 +1,16 @@
+0.2
+2016.1
+//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/ALU8.vhd,1702567162,vhdl,,,,,,,,,
+//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/MUX2x8.vhd,1702567163,vhdl,,,,,,,,,
+//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/MUX3x6.vhd,1702567163,vhdl,,,,,,,,,
+//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/REG6.vhd,1702567163,vhdl,,,,,,,,,
+//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/REG8.vhd,1702567163,vhdl,,,,,,,,,
+//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/SR4.vhd,1702567163,vhdl,,,,,,,,,
+C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sim_1/imports/tb/cpu_tb.vhd,1702567013,vhdl,C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu_pkg.vhd,,,,,,,,
+C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/adressvaljare.vhd,1702567014,vhdl,C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu_pkg.vhd,,,,,,,,
+C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/berakningsenhet.vhd,1702570113,vhdl,C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu_pkg.vhd,,,,,,,,
+C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu.vhd,1702573019,vhdl,C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu_pkg.vhd,,,,,,,,
+C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu_pkg.vhd,1702574529,vhdl,,,,,,,,,
+C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/instruktionsavkodare.vhd,1702574541,vhdl,C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu_pkg.vhd,,,,,,,,
+C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/registerblock.vhd,1702567015,vhdl,C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu_pkg.vhd,,,,,,,,
+C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/stack.vhd,1702567015,vhdl,C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu_pkg.vhd,,,,,,,,

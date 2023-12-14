@@ -1,0 +1,27 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/SR4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity SR4
+INFO: [VRFC 10-163] Analyzing VHDL file "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/MUX2x8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX2x8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/REG8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity REG8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/stack.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity stack
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/registerblock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity registerblock
+INFO: [VRFC 10-163] Analyzing VHDL file "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/REG6.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity REG6
+INFO: [VRFC 10-163] Analyzing VHDL file "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/MUX3x6.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX3x6
+INFO: [VRFC 10-163] Analyzing VHDL file "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/ALU8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/berakningsenhet.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity berakningsenhet
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/adressvaljare.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity adressvaljare
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/instruktionsavkodare.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity instruktionsavkodare
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sources_1/imports/MCU/labbfiler/cpu.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cpu
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ma2710de-s/Program/labb5/labb5.srcs/sim_1/imports/tb/cpu_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cpu_tb

@@ -1,0 +1,18 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/SR4.vhd"
+vhdl xil_defaultlib  "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/MUX2x8.vhd"
+vhdl xil_defaultlib  "../../../labb5.srcs/sources_1/imports/MCU/labbfiler/cpu_pkg.vhd"
+vhdl xil_defaultlib  "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/REG8.vhd"
+vhdl xil_defaultlib  "../../../labb5.srcs/sources_1/imports/MCU/labbfiler/stack.vhd"
+vhdl xil_defaultlib  "../../../labb5.srcs/sources_1/imports/MCU/labbfiler/registerblock.vhd"
+vhdl xil_defaultlib  "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/REG6.vhd"
+vhdl xil_defaultlib  "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/MUX3x6.vhd"
+vhdl xil_defaultlib  "//stu.net.lth.se/ma2710de-s/Downloads/MCU/MCU/komponenter/ALU8.vhd"
+vhdl xil_defaultlib  "../../../labb5.srcs/sources_1/imports/MCU/labbfiler/berakningsenhet.vhd"
+vhdl xil_defaultlib  "../../../labb5.srcs/sources_1/imports/MCU/labbfiler/adressvaljare.vhd"
+vhdl xil_defaultlib  "../../../labb5.srcs/sources_1/imports/MCU/labbfiler/instruktionsavkodare.vhd"
+vhdl xil_defaultlib  "../../../labb5.srcs/sources_1/imports/MCU/labbfiler/cpu.vhd"
+vhdl xil_defaultlib  "../../../labb5.srcs/sim_1/imports/tb/cpu_tb.vhd"
+
+# Do not sort compile order
+nosort

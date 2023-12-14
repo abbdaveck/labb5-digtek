@@ -1,0 +1,27 @@
+Vivado Simulator 2016.1
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.1/bin/unwrapped/win64.o/xelab.exe -wto 52ec65184674441c8b031a2c11785ea6 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cpu_tb_behav xil_defaultlib.cpu_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.cpu_pkg
+Compiling architecture behaviour of entity xil_defaultlib.REG6 [reg6_default]
+Compiling architecture behaviour of entity xil_defaultlib.SR4 [sr4_default]
+Compiling architecture structural of entity xil_defaultlib.stack [stack_default]
+Compiling architecture behaviour of entity xil_defaultlib.ALU8 [alu8_default]
+Compiling architecture behaviour of entity xil_defaultlib.MUX3x6 [mux3x6_default]
+Compiling architecture structural of entity xil_defaultlib.adressvaljare [adressvaljare_default]
+Compiling architecture behaviour of entity xil_defaultlib.MUX2x8 [mux2x8_default]
+Compiling architecture behaviour of entity xil_defaultlib.REG8 [reg8_default]
+Compiling architecture structural of entity xil_defaultlib.registerblock [registerblock_default]
+Compiling architecture structural of entity xil_defaultlib.berakningsenhet [berakningsenhet_default]
+Compiling architecture behaviour of entity xil_defaultlib.instruktionsavkodare [instruktionsavkodare_default]
+Compiling architecture structural of entity xil_defaultlib.cpu [cpu_default]
+Compiling architecture tb of entity xil_defaultlib.cpu_tb
+Built simulation snapshot cpu_tb_behav
