@@ -1,0 +1,64 @@
+0020;CALL ADDR -> 32
+0A01;sub 1
+0416;BZ R0 addr -> 22
+0606;addr -> 6
+0000;
+0000;
+0C0C;r0 -> grön,röd
+0039;CALL delay+OUT
+0C0A;r0 -> gul,röd
+0039;CALL delay+OUT
+0C09;r0 -> röd,röd
+0039;CALL delay+OUT
+0C19;r0 -> röd,röd+gul
+0039;CALL delay+OUT
+0C21;r0 -> röd,grön
+0039;CALL delay+OUT
+0C11;r0 -> röd,gul
+0039;CALL delay+OUT
+0C09;r0 -> röd,röd
+0039;CALL delay+OUT
+0C0B;r0 -> röd+gul,röd
+0039;CALL delay+OUT
+0C0C;r0 -> grön,röd
+0039;CALL delay+OUT
+0600;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0E00;IN R0
+1203;AND R0&3
+0200;RETURN
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0000;
+0D00;LD r1 -> 2
+0B01;SUB r1 - 1
+053E;BZ r1, addr->62
+063A;B addr->58
+0C00;LD R0
+1000;OUT r0
+0200;RET
